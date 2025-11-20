@@ -156,8 +156,8 @@ const data = [
     {
         id: 17,
         nombre: "PlayStation 5 DualSense",
-        precio: 69.00,
-        originalPrice: 75.00,
+        precio: 69.99,
+        originalPrice: 75.99,
         category: "Gaming",
         brand: "Sony",
         rating: 5,
